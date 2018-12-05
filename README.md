@@ -2,7 +2,7 @@
 Non-officiel OS, release the mining power (30%-70% more depend of algo) of your baikal miner GX10.                                         
 
 USE THIS FIRMWARE AND SOFTWARE AT YOUR OWN RISK !                                                                 
-DONT UPGRADE THIS FIRMWARE ON ANY OTHER KIND OF BAIKAL - ONLY GX10 MODEL.
+DONT UPGRADE THIS FIRMWARE ON ANY OTHER KIND OF BAIKAL - ONLY GX10 MODEL.                                                                
 THIS FIRMWARE WORK ONLY WITH THE ORIGINAL VERSION 
 
 PiZero_GX10_180410_V1.2.img 
